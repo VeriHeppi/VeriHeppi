@@ -68,8 +68,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/roope-mantere-4756421ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/roopemantere/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-roopemantere?style=flat-square&logo=instagram"></a>
-<a href="mailto:roope.mantere12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/roopemantere/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="mailto:roope.mantere12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ⭐️ From [VeriHeppi](https://github.com/VeriHeppi)
